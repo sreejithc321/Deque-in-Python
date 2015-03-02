@@ -15,4 +15,6 @@ def pal_check(string):
 	return match
     
 
-print pal_check('malaaam')
+print pal_check('radar')
+print pal_check('abcd')
+
